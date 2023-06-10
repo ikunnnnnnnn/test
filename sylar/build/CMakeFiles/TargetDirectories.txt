@@ -1,0 +1,4 @@
+/home/lilei/test/sylar/build/CMakeFiles/rebuild_cache.dir
+/home/lilei/test/sylar/build/CMakeFiles/src.dir
+/home/lilei/test/sylar/build/CMakeFiles/edit_cache.dir
+/home/lilei/test/sylar/build/CMakeFiles/main.dir

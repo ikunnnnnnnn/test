@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lilei/test/sylar/build",
+  "command": "/usr/bin/g++  -Dsrc_EXPORTS  -g -fPIC   -o CMakeFiles/src.dir/src/log.cpp.o -c /home/lilei/test/sylar/src/log.cpp",
+  "file": "/home/lilei/test/sylar/src/log.cpp"
+},
+{
+  "directory": "/home/lilei/test/sylar/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/main.dir/tests/main.cpp.o -c /home/lilei/test/sylar/tests/main.cpp",
+  "file": "/home/lilei/test/sylar/tests/main.cpp"
+}
+]

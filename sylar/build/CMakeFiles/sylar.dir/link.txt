@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g  -shared -Wl,-soname,libsylar.so -o libsylar.so CMakeFiles/sylar.dir/src/log.cpp.o 

@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g  -shared -Wl,-soname,libsrc.so -o ../lib/libsrc.so CMakeFiles/src.dir/src/log.cpp.o 
